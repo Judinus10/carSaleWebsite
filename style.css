@@ -89,14 +89,14 @@ header{
 }
 
 .navbar .active{
-    color: var(--bg-color);
+    color: var(--main-color);
     border-bottom: 3px solid var(--main-color);
 }
 
 #search-icon{
     font-size: 24px;
     cursor: pointer;
-    color: var(--text-color);
+    color: var(--bg-color);
 }
 
 .search-box{
