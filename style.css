@@ -133,10 +133,10 @@ header{
     min-height: 640px;
     display: flex;
     align-items: center;
-    background: url("assets/img/Background-home.png");
+    background: url(assets/img/Background-home.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center left;
+    /* background-position: center left; */
 }
 
 .home-text{
