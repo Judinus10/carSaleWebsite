@@ -16,6 +16,10 @@
     --bg-color: #fff;
 }
 
+section{
+    padding: 4rem 0 2rem;
+}
+
 img{
     width: 100%;
 }
@@ -85,7 +89,7 @@ header{
 }
 
 .navbar .active{
-    color: var(--main-color);
+    color: var(--bg-color);
     border-bottom: 3px solid var(--main-color);
 }
 
