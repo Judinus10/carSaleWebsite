@@ -13,7 +13,7 @@
 :root{
     --main-color:#cd2c2c ;
     --text-color: #000;
-    --bg-color: #fff;
+    --bg-color: #efecec;
 }
 
 section{
@@ -271,7 +271,7 @@ header{
     padding: 20px;
     display: flex;
     flex-direction: column;
-    background: #f6f6f6;
+    background: #f2ebeb;
     border-radius: 0.5rem;
 }
 
