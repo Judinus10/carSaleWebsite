@@ -317,3 +317,41 @@ header{
     color: var(--main-color);
     text-decoration: underline;
 }
+
+/* blog */
+.blog-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.blog-container .box{
+    flex: 1 1 13rem;
+    padding: 20px;
+}
+
+.blog-container .box span{
+    font-size: 0.8rem;
+    color: var(--main-color);
+}
+
+.blog-container h3{
+    font-size: 1.2rem;
+}
+
+.blog-container .box p{
+    font-size: 0.938rem;
+    margin: 4px 0;
+}
+
+.blog-container .box .blog-btn{
+    display: flex;
+    align-items: center;
+    column-gap: 4px;
+    color: var(--text-color);
+}
+
+.blog-container .box .blog-btn .bx{
+    font-size: 20px;
+}
