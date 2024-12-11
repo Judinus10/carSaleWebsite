@@ -62,6 +62,6 @@ CarWebsite/
 
 ## Project Preview
 
-![Car Website Screenshot](assets/img/website.jpg)
+![Car Website Screenshot](assets/img/Website.jpg)
 
 
