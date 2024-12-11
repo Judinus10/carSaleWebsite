@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
 *{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Spartan', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
     scroll-padding-top: 1rem;
@@ -17,7 +17,7 @@
 }
 
 /* Custom scroll bar */
-html::-webkit-scrollbar{
+html::-webkit-scrollbar {
     width: 0.5rem;
     background: var(--text-color);
 }
